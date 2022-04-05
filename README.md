@@ -6,6 +6,8 @@
 <br>Con esto completamos la instalación de Hadoop – HDFS -Spark -Hive- NiFi.
 ## Podemos comprobar la correcta ejecución de la siguiente forma. 
 <br>En un browser ingresar a http://localhost: `numero de puerto`
+<br>De igual forma, si estas trabajando con una maquina virtual como las de AWS, puedes colocar la ip publica y el puerto
+<br>correspondiente ([IP PUBLICA]):[Puerto]
 <br>Donde <b>numero de puerto</b> puede ser:
 <br>** 50070 (visualiza Hadoop y sus namenode)
 <br>** 8080 (Spark Master)
